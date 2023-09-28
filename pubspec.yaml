@@ -22,17 +22,6 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        package: com.dynamsoft.flutter_barcode_sdk
-        pluginClass: FlutterBarcodeSdkPlugin
-      ios:
-        pluginClass: FlutterBarcodeSdkPlugin
-      windows:
-        pluginClass: FlutterBarcodeSdkPlugin
-      linux:
-        pluginClass: FlutterBarcodeSdkPlugin
-      macos:
-        pluginClass: FlutterBarcodeSdkPlugin
       web:
         pluginClass: FlutterBarcodeSdkWeb
         fileName: flutter_barcode_sdk_web.dart
