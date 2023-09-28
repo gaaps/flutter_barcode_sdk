@@ -5,8 +5,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_barcode_sdk/dynamsoft_barcode.dart';
 import 'package:flutter_barcode_sdk/flutter_barcode_sdk.dart';
-import 'package:flutter_barcode_sdk_example/utils.dart';
 import 'package:image_picker/image_picker.dart';
+import 'utils.dart';
 
 class Web extends StatefulWidget {
   @override

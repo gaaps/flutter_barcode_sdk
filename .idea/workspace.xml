@@ -1,5 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="743b5736-b7c3-4303-810d-e112d4d86219" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/dynamsoft/flutter_barcode_sdk/BarcodeManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/dynamsoft/flutter_barcode_sdk/FlutterBarcodeSdkPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/desktop.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/mobile.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/web.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/web.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/linux/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/linux/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/linux/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Podfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/macos/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_barcode_sdk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_barcode_sdk.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/FlutterBarcodeSdkPlugin.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/FlutterBarcodeSdkPlugin.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/SwiftFlutterBarcodeSdkPlugin.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/flutter_barcode_sdk.podspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter_barcode_sdk_plugin.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/include/DynamsoftBarcodeReader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/include/DynamsoftCommon.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/include/barcode_manager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/include/flutter_barcode_sdk/flutter_barcode_sdk_plugin.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/lib/libDynamLicenseClient.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/lib/libDynamicPdf.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/lib/libDynamsoftBarcodeReader.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/lib/libDynamsoftLicenseClient.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Classes/DynamsoftBarcodeReader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Classes/FlutterBarcodeSdkPlugin.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/flutter_barcode_sdk.podspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/lib/libDynamicPdf.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/lib/libDynamsoftBarcodeReader.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/lib/libDynamsoftLicenseClient.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/flutter_barcode_sdk_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/bin/DynamicPdfx64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/bin/DynamsoftBarcodeReaderx64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/bin/DynamsoftLicClientx64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/bin/DynamsoftLicenseClientx64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/bin/vcomp110.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter_barcode_sdk_plugin.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/include/DynamsoftBarcodeReader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/include/DynamsoftCommon.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/include/barcode_manager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/include/flutter_barcode_sdk/flutter_barcode_sdk_plugin.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/lib/DBRx64.lib" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="flutter_barcode_sdk.dart" pinned="false" current-in-tab="true">
@@ -22,24 +126,56 @@
       </file>
     </leaf>
   </component>
-  <component name="ToolWindowManager">
-    <editor active="true" />
-    <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-    </layout>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2VyKxZRAPvqxFQeqKOTj3lm2xD5" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-    </navigator>
+    <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
       <pane id="ProjectPane">
         <option name="show-excluded-files" value="false" />
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="dart.analysis.tool.window.force.activate" value="true" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/JMly/Dev/Apps/TrucksnB/flutter_barcode_sdk&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="743b5736-b7c3-4303-810d-e112d4d86219" name="Changes" comment="" />
+      <created>1695803126472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695803126472</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+    </layout>
   </component>
 </project>
